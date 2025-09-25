@@ -45,7 +45,7 @@ const App: React.FC = () => {
           className="w-24 h-24 sm:w-28 sm:h-28 rounded-full border-4 border-neutral-700 object-cover shadow-lg"
         />
         
-        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">Курс флористики</h1>
+        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">Курс флористики Miracle Flowers</h1>
         
         <p className="text-neutral-400 text-xs sm:text-sm">402 користувачі</p>
         
