@@ -45,12 +45,12 @@ const App: React.FC = () => {
           className="w-24 h-24 sm:w-28 sm:h-28 rounded-full border-4 border-neutral-700 object-cover shadow-lg"
         />
         
-        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">Canva 149грн/Місяць</h1>
+        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">Курс флористики</h1>
         
-        <p className="text-neutral-400 text-xs sm:text-sm">1.102 користувачі</p>
+        <p className="text-neutral-400 text-xs sm:text-sm">402 користувачі</p>
         
         <p className="text-neutral-400 text-xs sm:text-sm leading-relaxed px-2">
-          Переходь до закритого бота, щоб дізнатися, де можна дешево придбати Canva Pro лише за 149грн/місяць
+          Переходь до закритого бота, щоб дізнатися детальніше про курс флористики
         </p>
         
         <a
