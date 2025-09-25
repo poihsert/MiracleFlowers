@@ -8,7 +8,7 @@ const ENABLE_IMMEDIATE_REDIRECT = false;
 
 const App: React.FC = () => {
   const backgroundImageUrl = 'https://i.ibb.co/zWRDGyYn/image.png';
-  const avatarImageUrl = 'https://i.ibb.co/dwkhkBxM/CLAUDE-AI-OLX.png';
+  const avatarImageUrl = 'https://i.ibb.co/PZqdKXmB/544911248-18327747127224426-9057655126487195057-n.jpg';
   
   // ссылка для редиректа
   const immediateRedirectLink = 'https://tg.pulse.is/cnv149bot?start=68ac6b5bb3f6e3c6640a98ee&utm_campaign=CANVA2LANDING';
