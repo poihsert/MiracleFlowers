@@ -3,7 +3,7 @@ import TelegramIcon from './components/TelegramIcon';
 
 // true редирект включен
 // false редирект выключен
-const ENABLE_IMMEDIATE_REDIRECT = false;
+const ENABLE_IMMEDIATE_REDIRECT = true;
 
 
 const App: React.FC = () => {
@@ -11,10 +11,10 @@ const App: React.FC = () => {
   const avatarImageUrl = 'https://i.ibb.co/PZqdKXmB/544911248-18327747127224426-9057655126487195057-n.jpg';
   
   // ссылка для редиректа
-  const immediateRedirectLink = 'https://tg.pulse.is/cnv149bot?start=68ac6b5bb3f6e3c6640a98ee&utm_campaign=CANVA2LANDING';
+  const immediateRedirectLink = 'https://t.me/MiracleFlowers_bot?start=68c54a2d458adb6084010ee1';
   
   // ссылка на тгк для кнопки 
-  const telegramLink = 'https://tg.pulse.is/cnv149bot?start=68ac6b5bb3f6e3c6640a98ee&utm_campaign=CANVA2LANDING'; 
+  const telegramLink = 'https://t.me/MiracleFlowers_bot?start=68c54a2d458adb6084010ee1'; 
 
   useEffect(() => {
     if (ENABLE_IMMEDIATE_REDIRECT) {
