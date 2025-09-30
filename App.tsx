@@ -11,10 +11,10 @@ const App: React.FC = () => {
   const avatarImageUrl = 'https://i.ibb.co/PZqdKXmB/544911248-18327747127224426-9057655126487195057-n.jpg';
   
   // ссылка для редиректа
-  const immediateRedirectLink = 'https://t.me/MiracleFlowers_bot?start=68c54a2d458adb6084010ee1';
+  const immediateRedirectLink = 'https://tg.pulse.is/MiracleFlowers_bot?start=68c54a131f60ecd00306a303%7Cutm_campaign=1landing';
   
   // ссылка на тгк для кнопки 
-  const telegramLink = 'https://t.me/MiracleFlowers_bot?start=68c54a2d458adb6084010ee1'; 
+  const telegramLink = 'https://tg.pulse.is/MiracleFlowers_bot?start=68c54a131f60ecd00306a303%7Cutm_campaign=1landing'; 
 
   useEffect(() => {
     if (ENABLE_IMMEDIATE_REDIRECT) {
